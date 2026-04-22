@@ -2,7 +2,7 @@
 
 [![CI/CD](https://github.com/swharden/FftSharp/actions/workflows/ci.yaml/badge.svg)](https://github.com/swharden/FftSharp/actions/workflows/ci.yaml)
 
-**FftSharp is a collection of Fast Fourier Transform (FFT) tools for .NET.** FftSharp is provided under the permissive [MIT license](LICENSE) so it is suitable for use in commercial applications. FftSharp targets .NET Standard and has no dependencies so it can be easily used in cross-platform .NET Framework and .NET Core applications.
+**FftSharp is a collection of Fast Fourier Transform (FFT) tools** FftSharp is provided under the permissive [MIT license](LICENSE) so it is suitable for use in commercial applications. FftSharp targets .NET Standard and has no dependencies so it can be easily used in cross-platform .NET Framework and .NET Core applications.
 
 ### Quickstart
 
